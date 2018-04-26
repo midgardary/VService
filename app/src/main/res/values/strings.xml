@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VService</string>
+    
+    <string name="tab_menu_alert">动态</string>
+    <string name="tab_menu_profile">信息</string>
+    <string name="tab_menu_pay">我的</string>
+    <string name="tab_menu_setting">设置</string>
+</resources>
